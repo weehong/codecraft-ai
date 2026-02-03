@@ -1,0 +1,14 @@
+# Development dependencies
+-r requirements.txt
+
+# Testing
+pytest>=7.0.0
+pytest-cov>=4.0.0
+
+# Code formatting and linting
+black>=23.0.0
+ruff>=0.1.0
+mypy>=1.0.0
+
+# Optional: For 7z archive support
+py7zr>=0.20.0

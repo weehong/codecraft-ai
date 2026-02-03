@@ -1,0 +1,16 @@
+# Core dependencies
+rich>=13.0.0
+
+# Git and GitHub/GitLab integration
+GitPython>=3.1.40
+PyGithub>=2.1.1
+python-gitlab>=4.0.0
+
+# AI-powered commit generation
+openai>=1.0.0
+
+# Environment configuration
+python-dotenv>=1.0.0
+
+# Optional: For 7z archive support
+# py7zr>=0.20.0
